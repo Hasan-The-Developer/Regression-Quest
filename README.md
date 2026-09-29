@@ -41,3 +41,4 @@ Untuk memastikan game dapat berjalan dengan lancar tanpa *crash* atau *error* sa
 1. *Klik kanan untuk...*
 2. *Klik kiri untuk...*
 3. *Tombol ESC untuk...*
+4. *dapat melakukan drag and drop dengan mouse*
