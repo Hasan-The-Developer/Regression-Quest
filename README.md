@@ -23,7 +23,7 @@ Untuk memastikan game dapat berjalan dengan lancar tanpa *crash* atau *error* sa
 ## 👨‍💻 Developer
 
 Proyek ini dikembangkan dengan penuh dedikasi oleh:
-**[Hasan-The-Developer](https://github.com/Link-Profil-Github-Anda)**
+**[Muhammad Hasan Nasrullah](https://github.com/Link-Profil-Github-Anda)**
 
 ---
 
